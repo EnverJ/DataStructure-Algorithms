@@ -91,6 +91,8 @@ public class BigO {
     }
     // merge sort algo  o(n log n)  -- divide and conquer.(divide and sort - merge)
 
+    // big O(2^) -- Exponential Time Complexity
+
 
 
     public static void main(String[] args) {
